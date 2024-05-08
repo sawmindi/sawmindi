@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! </h2>
-  <h3><br>I'm Sandali Sawmindi, a second-year Computer Science undergraduate student 👩🏻‍🎓<br>at the Informatics Institute of Technology, affiliated with the University of Westminster, UK.</h3>
-<br>
+  <br>
 - 🎓 Pursuing a Bachelor's degree in Computer Science.<br><br>
 - 💻 Passionate about web & mobile development.<br><br>
 - 🌱 Always eager to learn and grow in the field of technology.<br><br>
